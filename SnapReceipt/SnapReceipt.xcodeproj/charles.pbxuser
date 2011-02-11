@@ -1,0 +1,1280 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SnapReceiptAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {902, 468}}";
+			sepNavSelRange = "{183, 20}";
+			sepNavVisRange = "{0, 1073}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1885}}";
+			sepNavSelRange = "{2316, 0}";
+			sepNavVisRange = "{1702, 1534}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SnapReceipt */ = {
+		activeExec = 0;
+		executables = (
+			560EBA0F130483070016E83D /* SnapReceipt */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 560EBA0F130483070016E83D /* SnapReceipt */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SnapReceipt */;
+		addToTargets = (
+		);
+		codeSenseManager = 560EBA14130483250016E83D /* Code sense */;
+		executables = (
+			560EBA0F130483070016E83D /* SnapReceipt */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					724,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					684,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319062791;
+			PBXWorkspaceStateSaveDate = 319062791;
+		};
+		perUserProjectItems = {
+			560EBA2D13048C5D0016E83D /* XCBuildMessageTextBookmark */ = 560EBA2D13048C5D0016E83D /* XCBuildMessageTextBookmark */;
+			560EBA2E13048C5D0016E83D /* PBXTextBookmark */ = 560EBA2E13048C5D0016E83D /* PBXTextBookmark */;
+			560EBA3313048C7E0016E83D /* PlistBookmark */ = 560EBA3313048C7E0016E83D /* PlistBookmark */;
+			560EBA3413048C7E0016E83D /* PBXTextBookmark */ = 560EBA3413048C7E0016E83D /* PBXTextBookmark */;
+			560EBA3513048C7E0016E83D /* PBXTextBookmark */ = 560EBA3513048C7E0016E83D /* PBXTextBookmark */;
+			560EBA3613048C7E0016E83D /* PBXTextBookmark */ = 560EBA3613048C7E0016E83D /* PBXTextBookmark */;
+			560EBA3713048C7E0016E83D /* PBXTextBookmark */ = 560EBA3713048C7E0016E83D /* PBXTextBookmark */;
+			560EBA3813048C7E0016E83D /* PBXTextBookmark */ = 560EBA3813048C7E0016E83D /* PBXTextBookmark */;
+			560EBA3913048C7E0016E83D /* PBXTextBookmark */ = 560EBA3913048C7E0016E83D /* PBXTextBookmark */;
+			560EBA3A13048C7E0016E83D /* PBXTextBookmark */ = 560EBA3A13048C7E0016E83D /* PBXTextBookmark */;
+			560EBA3B13048C7E0016E83D /* PBXTextBookmark */ = 560EBA3B13048C7E0016E83D /* PBXTextBookmark */;
+			560EBA3C13048C7E0016E83D /* PBXTextBookmark */ = 560EBA3C13048C7E0016E83D /* PBXTextBookmark */;
+			560EBA4B13048D7F0016E83D /* PBXTextBookmark */ = 560EBA4B13048D7F0016E83D /* PBXTextBookmark */;
+			560EBA4C13048D7F0016E83D /* PBXTextBookmark */ = 560EBA4C13048D7F0016E83D /* PBXTextBookmark */;
+			560EBA4D13048ECB0016E83D /* PBXTextBookmark */ = 560EBA4D13048ECB0016E83D /* PBXTextBookmark */;
+			560EBA4E13048ECB0016E83D /* PBXTextBookmark */ = 560EBA4E13048ECB0016E83D /* PBXTextBookmark */;
+			560EBA4F13048ECB0016E83D /* PBXTextBookmark */ = 560EBA4F13048ECB0016E83D /* PBXTextBookmark */;
+			560EBA561304916A0016E83D /* PBXTextBookmark */ = 560EBA561304916A0016E83D /* PBXTextBookmark */;
+			560EBA571304916A0016E83D /* PBXTextBookmark */ = 560EBA571304916A0016E83D /* PBXTextBookmark */;
+			560EBA581304916A0016E83D /* PBXTextBookmark */ = 560EBA581304916A0016E83D /* PBXTextBookmark */;
+			560EBA5B1304918C0016E83D /* PBXTextBookmark */ = 560EBA5B1304918C0016E83D /* PBXTextBookmark */;
+			560EBA62130491C70016E83D /* PBXTextBookmark */ = 560EBA62130491C70016E83D /* PBXTextBookmark */;
+			560EBA63130491C70016E83D /* PBXTextBookmark */ = 560EBA63130491C70016E83D /* PBXTextBookmark */;
+			560EBA64130491C70016E83D /* PBXTextBookmark */ = 560EBA64130491C70016E83D /* PBXTextBookmark */;
+			560EBA69130492150016E83D /* PBXTextBookmark */ = 560EBA69130492150016E83D /* PBXTextBookmark */;
+			560EBA6A130492150016E83D /* PBXTextBookmark */ = 560EBA6A130492150016E83D /* PBXTextBookmark */;
+			560EBA6B130492150016E83D /* PBXTextBookmark */ = 560EBA6B130492150016E83D /* PBXTextBookmark */;
+			560EBA701304923E0016E83D /* PBXTextBookmark */ = 560EBA701304923E0016E83D /* PBXTextBookmark */;
+			560EBA731304928F0016E83D /* PBXTextBookmark */ = 560EBA731304928F0016E83D /* PBXTextBookmark */;
+			560EBA741304928F0016E83D /* PBXTextBookmark */ = 560EBA741304928F0016E83D /* PBXTextBookmark */;
+			560EBA751304928F0016E83D /* PBXTextBookmark */ = 560EBA751304928F0016E83D /* PBXTextBookmark */;
+			560EBA761304928F0016E83D /* PBXTextBookmark */ = 560EBA761304928F0016E83D /* PBXTextBookmark */;
+			560EBA7D130492E70016E83D /* PBXTextBookmark */ = 560EBA7D130492E70016E83D /* PBXTextBookmark */;
+			560EBA7E130492E70016E83D /* PBXTextBookmark */ = 560EBA7E130492E70016E83D /* PBXTextBookmark */;
+			560EBA7F130492E70016E83D /* PBXTextBookmark */ = 560EBA7F130492E70016E83D /* PBXTextBookmark */;
+			560EBA801304931F0016E83D /* PBXTextBookmark */ = 560EBA801304931F0016E83D /* PBXTextBookmark */;
+			560EBA811304931F0016E83D /* PBXTextBookmark */ = 560EBA811304931F0016E83D /* PBXTextBookmark */;
+			560EBA821304931F0016E83D /* PBXTextBookmark */ = 560EBA821304931F0016E83D /* PBXTextBookmark */;
+			560EBA83130493560016E83D /* PBXTextBookmark */ = 560EBA83130493560016E83D /* PBXTextBookmark */;
+			560EBA84130493560016E83D /* PBXTextBookmark */ = 560EBA84130493560016E83D /* PBXTextBookmark */;
+			560EBA85130493560016E83D /* PBXTextBookmark */ = 560EBA85130493560016E83D /* PBXTextBookmark */;
+			560EBA861304937B0016E83D /* PBXTextBookmark */ = 560EBA861304937B0016E83D /* PBXTextBookmark */;
+			560EBA871304939C0016E83D /* PBXTextBookmark */ = 560EBA871304939C0016E83D /* PBXTextBookmark */;
+			560EBA881304939C0016E83D /* PBXTextBookmark */ = 560EBA881304939C0016E83D /* PBXTextBookmark */;
+			560EBA891304939C0016E83D /* PBXTextBookmark */ = 560EBA891304939C0016E83D /* PBXTextBookmark */;
+			560EBA8C130493A80016E83D /* PBXTextBookmark */ = 560EBA8C130493A80016E83D /* PBXTextBookmark */;
+			560EBA8D130493CE0016E83D /* PBXTextBookmark */ = 560EBA8D130493CE0016E83D /* PBXTextBookmark */;
+			560EBA92130493F10016E83D /* PBXTextBookmark */ = 560EBA92130493F10016E83D /* PBXTextBookmark */;
+			560EBA971304945C0016E83D /* PBXTextBookmark */ = 560EBA971304945C0016E83D /* PBXTextBookmark */;
+			560EBA9A130494630016E83D /* PBXTextBookmark */ = 560EBA9A130494630016E83D /* PBXTextBookmark */;
+			560EBA9D1304946B0016E83D /* PBXTextBookmark */ = 560EBA9D1304946B0016E83D /* PBXTextBookmark */;
+			560EBAA0130494790016E83D /* PBXTextBookmark */ = 560EBAA0130494790016E83D /* PBXTextBookmark */;
+			560EBAA5130494980016E83D /* PBXTextBookmark */ = 560EBAA5130494980016E83D /* PBXTextBookmark */;
+			560EBAA6130494980016E83D /* PBXTextBookmark */ = 560EBAA6130494980016E83D /* PBXTextBookmark */;
+			560EBAC613049C710016E83D /* PBXTextBookmark */ = 560EBAC613049C710016E83D /* PBXTextBookmark */;
+			560EBAC713049C710016E83D /* PBXTextBookmark */ = 560EBAC713049C710016E83D /* PBXTextBookmark */;
+			560EBAC813049C710016E83D /* PBXTextBookmark */ = 560EBAC813049C710016E83D /* PBXTextBookmark */;
+			560EBAC913049C710016E83D /* PBXTextBookmark */ = 560EBAC913049C710016E83D /* PBXTextBookmark */;
+			560EBACA13049C850016E83D /* PBXTextBookmark */ = 560EBACA13049C850016E83D /* PBXTextBookmark */;
+			560EBACB13049CDE0016E83D /* PBXTextBookmark */ = 560EBACB13049CDE0016E83D /* PBXTextBookmark */;
+			560EBACC13049CDE0016E83D /* PBXTextBookmark */ = 560EBACC13049CDE0016E83D /* PBXTextBookmark */;
+			560EBACD13049CDE0016E83D /* PBXTextBookmark */ = 560EBACD13049CDE0016E83D /* PBXTextBookmark */;
+			560EBACE13049D070016E83D /* PBXTextBookmark */ = 560EBACE13049D070016E83D /* PBXTextBookmark */;
+			560EBACF13049D5A0016E83D /* PBXTextBookmark */ = 560EBACF13049D5A0016E83D /* PBXTextBookmark */;
+			560EBAD013049D7B0016E83D /* PBXTextBookmark */ = 560EBAD013049D7B0016E83D /* PBXTextBookmark */;
+			560EBAD913049DE40016E83D /* PBXTextBookmark */ = 560EBAD913049DE40016E83D /* PBXTextBookmark */;
+			560EBAE013049E230016E83D /* PBXTextBookmark */ = 560EBAE013049E230016E83D /* PBXTextBookmark */;
+			560EBAE513049E8F0016E83D /* PBXTextBookmark */ = 560EBAE513049E8F0016E83D /* PBXTextBookmark */;
+			560EBAE613049E8F0016E83D /* PBXTextBookmark */ = 560EBAE613049E8F0016E83D /* PBXTextBookmark */;
+			560EBAE713049E8F0016E83D /* PBXTextBookmark */ = 560EBAE713049E8F0016E83D /* PBXTextBookmark */;
+			560EBAEC13049EE80016E83D /* PBXTextBookmark */ = 560EBAEC13049EE80016E83D /* PBXTextBookmark */;
+			560EBAF313049F610016E83D /* PBXTextBookmark */ = 560EBAF313049F610016E83D /* PBXTextBookmark */;
+			560EBAF413049F610016E83D /* PBXTextBookmark */ = 560EBAF413049F610016E83D /* PBXTextBookmark */;
+			560EBAF513049F610016E83D /* PBXTextBookmark */ = 560EBAF513049F610016E83D /* PBXTextBookmark */;
+			560EBAFC1304A0360016E83D /* PBXTextBookmark */ = 560EBAFC1304A0360016E83D /* PBXTextBookmark */;
+			560EBCF11304B3310016E83D /* PBXTextBookmark */ = 560EBCF11304B3310016E83D /* PBXTextBookmark */;
+			560EBCF21304B3310016E83D /* PBXTextBookmark */ = 560EBCF21304B3310016E83D /* PBXTextBookmark */;
+			560EBCF31304B3310016E83D /* PBXTextBookmark */ = 560EBCF31304B3310016E83D /* PBXTextBookmark */;
+			560EBCF41304B3310016E83D /* PBXTextBookmark */ = 560EBCF41304B3310016E83D /* PBXTextBookmark */;
+			560EBCF51304B3310016E83D /* PBXTextBookmark */ = 560EBCF51304B3310016E83D /* PBXTextBookmark */;
+			560EBCF81304B5AD0016E83D /* PBXTextBookmark */ = 560EBCF81304B5AD0016E83D /* PBXTextBookmark */;
+			560EBCF91304B5AD0016E83D /* PBXTextBookmark */ = 560EBCF91304B5AD0016E83D /* PBXTextBookmark */;
+			560EBCFA1304B5AD0016E83D /* PBXTextBookmark */ = 560EBCFA1304B5AD0016E83D /* PBXTextBookmark */;
+			560EBCFC1304B6A30016E83D /* PBXTextBookmark */ = 560EBCFC1304B6A30016E83D /* PBXTextBookmark */;
+			560EBCFD1304B6A30016E83D /* XCBuildMessageTextBookmark */ = 560EBCFD1304B6A30016E83D /* XCBuildMessageTextBookmark */;
+			560EBCFE1304B6A30016E83D /* PBXTextBookmark */ = 560EBCFE1304B6A30016E83D /* PBXTextBookmark */;
+			560EBD061304B7820016E83D /* XCBuildMessageTextBookmark */ = 560EBD061304B7820016E83D /* XCBuildMessageTextBookmark */;
+			560EBD071304B7820016E83D /* PBXTextBookmark */ = 560EBD071304B7820016E83D /* PBXTextBookmark */;
+			560EBD0C1304B7D80016E83D /* XCBuildMessageTextBookmark */ = 560EBD0C1304B7D80016E83D /* XCBuildMessageTextBookmark */;
+			560EBD0D1304B7D80016E83D /* PBXTextBookmark */ = 560EBD0D1304B7D80016E83D /* PBXTextBookmark */;
+			560EBD141304B8410016E83D /* PBXTextBookmark */ = 560EBD141304B8410016E83D /* PBXTextBookmark */;
+			560EBD291304BF5D0016E83D /* PBXTextBookmark */ = 560EBD291304BF5D0016E83D /* PBXTextBookmark */;
+			560EBD2A1304BF5D0016E83D /* PBXTextBookmark */ = 560EBD2A1304BF5D0016E83D /* PBXTextBookmark */;
+			560EBD2B1304BF5D0016E83D /* PBXTextBookmark */ = 560EBD2B1304BF5D0016E83D /* PBXTextBookmark */;
+			560EBD2C1304BF5D0016E83D /* PBXTextBookmark */ = 560EBD2C1304BF5D0016E83D /* PBXTextBookmark */;
+			560EBD2D1304BF5D0016E83D /* PBXTextBookmark */ = 560EBD2D1304BF5D0016E83D /* PBXTextBookmark */;
+			560EBD2E1304BF5D0016E83D /* XCBuildMessageTextBookmark */ = 560EBD2E1304BF5D0016E83D /* XCBuildMessageTextBookmark */;
+			560EBD2F1304BF5D0016E83D /* PBXTextBookmark */ = 560EBD2F1304BF5D0016E83D /* PBXTextBookmark */;
+			560EBD361304BF830016E83D /* PBXTextBookmark */ = 560EBD361304BF830016E83D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 560EBA13130483250016E83D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {902, 461}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 362}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* SnapReceipt_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {902, 461}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	560EBA0F130483070016E83D /* SnapReceipt */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SnapReceipt;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	560EBA13130483250016E83D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	560EBA14130483250016E83D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	560EBA19130484FF0016E83D /* CameraViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {902, 461}}";
+			sepNavSelRange = "{547, 0}";
+			sepNavVisRange = "{0, 688}";
+		};
+	};
+	560EBA1A130484FF0016E83D /* CameraViewController.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 3926}}";
+			sepNavSelRange = "{8706, 0}";
+			sepNavVisRange = "{6282, 1297}";
+		};
+	};
+	560EBA1C13048A020016E83D /* ReceiptListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {902, 461}}";
+			sepNavSelRange = "{246, 0}";
+			sepNavVisRange = "{0, 247}";
+		};
+	};
+	560EBA1D13048A020016E83D /* ReceiptListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 858}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 904}";
+		};
+	};
+	560EBA1F13048A360016E83D /* ReportViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {902, 461}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 237}";
+		};
+	};
+	560EBA2213048A6E0016E83D /* SettingsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {902, 461}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 241}";
+		};
+	};
+	560EBA2D13048C5D0016E83D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'tabBarController' undeclared (first use in this function)";
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 85;
+		rType = 1;
+	};
+	560EBA2E13048C5D0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 3046;
+		rType = 0;
+		vrLen = 468;
+		vrLoc = 525;
+	};
+	560EBA3313048C7E0016E83D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SnapReceipt-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/charles/devapps_charles/myapps/ocr_app/git_ocr_app/SnapReceipt/SnapReceipt-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	560EBA3413048C7E0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 237;
+		vrLoc = 0;
+	};
+	560EBA3513048C7E0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1C13048A020016E83D /* ReceiptListViewController.h */;
+		name = "ReceiptListViewController.h: 16";
+		rLen = 0;
+		rLoc = 246;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 0;
+	};
+	560EBA3613048C7E0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 889;
+		vrLoc = 0;
+	};
+	560EBA3713048C7E0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1F13048A360016E83D /* ReportViewController.h */;
+		name = "ReportViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 237;
+		vrLoc = 0;
+	};
+	560EBA3813048C7E0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1D13048A020016E83D /* ReceiptListViewController.m */;
+		name = "ReceiptListViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 904;
+		vrLoc = 0;
+	};
+	560EBA3913048C7E0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA2213048A6E0016E83D /* SettingsViewController.h */;
+		name = "SettingsViewController.h: 7";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 0;
+	};
+	560EBA3A13048C7E0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SnapReceiptAppDelegate.h */;
+		name = "SnapReceiptAppDelegate.h: 26";
+		rLen = 0;
+		rLoc = 750;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 0;
+	};
+	560EBA3B13048C7E0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 93";
+		rLen = 0;
+		rLoc = 5319;
+		rType = 0;
+		vrLen = 703;
+		vrLoc = 2431;
+	};
+	560EBA3C13048C7E0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 18";
+		rLen = 0;
+		rLoc = 496;
+		rType = 0;
+		vrLen = 1258;
+		vrLoc = 252;
+	};
+	560EBA4B13048D7F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 18";
+		rLen = 0;
+		rLoc = 496;
+		rType = 0;
+		vrLen = 1258;
+		vrLoc = 252;
+	};
+	560EBA4C13048D7F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1587;
+		vrLoc = 416;
+	};
+	560EBA4D13048ECB0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 34";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1607;
+		vrLoc = 325;
+	};
+	560EBA4E13048ECB0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 237;
+		vrLoc = 0;
+	};
+	560EBA4F13048ECB0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 30";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1045;
+		vrLoc = 187;
+	};
+	560EBA561304916A0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 20";
+		rLen = 0;
+		rLoc = 688;
+		rType = 0;
+		vrLen = 318;
+		vrLoc = 0;
+	};
+	560EBA571304916A0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 34";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 721;
+		vrLoc = 1078;
+	};
+	560EBA581304916A0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 31";
+		rLen = 0;
+		rLoc = 908;
+		rType = 0;
+		vrLen = 977;
+		vrLoc = 188;
+	};
+	560EBA5B1304918C0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 34";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1083;
+		vrLoc = 226;
+	};
+	560EBA62130491C70016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 34";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1605;
+		vrLoc = 325;
+	};
+	560EBA63130491C70016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 34";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1152;
+		vrLoc = 226;
+	};
+	560EBA64130491C70016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 34";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1130;
+		vrLoc = 250;
+	};
+	560EBA69130492150016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 34";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1135;
+		vrLoc = 250;
+	};
+	560EBA6A130492150016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SnapReceiptAppDelegate.h */;
+		name = "SnapReceiptAppDelegate.h: 26";
+		rLen = 0;
+		rLoc = 750;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 0;
+	};
+	560EBA6B130492150016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1589;
+		vrLoc = 416;
+	};
+	560EBA701304923E0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 3068;
+		rType = 0;
+		vrLen = 1523;
+		vrLoc = 524;
+	};
+	560EBA731304928F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SnapReceiptAppDelegate.h */;
+		name = "SnapReceiptAppDelegate.h: 26";
+		rLen = 0;
+		rLoc = 750;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 0;
+	};
+	560EBA741304928F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1745;
+		vrLoc = 524;
+	};
+	560EBA751304928F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 34";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1132;
+		vrLoc = 250;
+	};
+	560EBA761304928F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 29";
+		rLen = 0;
+		rLoc = 856;
+		rType = 0;
+		vrLen = 1135;
+		vrLoc = 251;
+	};
+	560EBA7D130492E70016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1745;
+		vrLoc = 524;
+	};
+	560EBA7E130492E70016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 29";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 0;
+	};
+	560EBA7F130492E70016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 17";
+		rLen = 0;
+		rLoc = 682;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 0;
+	};
+	560EBA801304931F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 16";
+		rLen = 0;
+		rLoc = 682;
+		rType = 0;
+		vrLen = 318;
+		vrLoc = 0;
+	};
+	560EBA811304931F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 29";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 867;
+		vrLoc = 50;
+	};
+	560EBA821304931F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 70";
+		rLen = 0;
+		rLoc = 8680;
+		rType = 0;
+		vrLen = 886;
+		vrLoc = 53;
+	};
+	560EBA83130493560016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 16";
+		rLen = 0;
+		rLoc = 682;
+		rType = 0;
+		vrLen = 264;
+		vrLoc = 0;
+	};
+	560EBA84130493560016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 31";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 872;
+		vrLoc = 153;
+	};
+	560EBA85130493560016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 31";
+		rLen = 0;
+		rLoc = 1006;
+		rType = 0;
+		vrLen = 855;
+		vrLoc = 149;
+	};
+	560EBA861304937B0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 31";
+		rLen = 0;
+		rLoc = 913;
+		rType = 0;
+		vrLen = 882;
+		vrLoc = 149;
+	};
+	560EBA871304939C0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 16";
+		rLen = 1;
+		rLoc = 681;
+		rType = 0;
+		vrLen = 318;
+		vrLoc = 0;
+	};
+	560EBA881304939C0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 14";
+		rLen = 0;
+		rLoc = 341;
+		rType = 0;
+		vrLen = 716;
+		vrLoc = 1067;
+	};
+	560EBA891304939C0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 14";
+		rLen = 0;
+		rLoc = 341;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 186;
+	};
+	560EBA8C130493A80016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 31";
+		rLen = 0;
+		rLoc = 899;
+		rType = 0;
+		vrLen = 904;
+		vrLoc = 187;
+	};
+	560EBA8D130493CE0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 763;
+	};
+	560EBA92130493F10016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 33";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1033;
+		vrLoc = 225;
+	};
+	560EBA971304945C0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 32";
+		rLen = 0;
+		rLoc = 1006;
+		rType = 0;
+		vrLen = 1091;
+		vrLoc = 250;
+	};
+	560EBA9A130494630016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 32";
+		rLen = 0;
+		rLoc = 913;
+		rType = 0;
+		vrLen = 933;
+		vrLoc = 413;
+	};
+	560EBA9D1304946B0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 31";
+		rLen = 0;
+		rLoc = 879;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 499;
+	};
+	560EBAA0130494790016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 29";
+		rLen = 0;
+		rLoc = 856;
+		rType = 0;
+		vrLen = 786;
+		vrLoc = 570;
+	};
+	560EBAA5130494980016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 29";
+		rLen = 0;
+		rLoc = 856;
+		rType = 0;
+		vrLen = 821;
+		vrLoc = 570;
+	};
+	560EBAA6130494980016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1859;
+		vrLoc = 541;
+	};
+	560EBAC613049C710016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 29";
+		rLen = 0;
+		rLoc = 856;
+		rType = 0;
+		vrLen = 903;
+		vrLoc = 153;
+	};
+	560EBAC713049C710016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SnapReceiptAppDelegate.h */;
+		name = "SnapReceiptAppDelegate.h: 22";
+		rLen = 0;
+		rLoc = 614;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 0;
+	};
+	560EBAC813049C710016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 3213;
+		rType = 0;
+		vrLen = 1452;
+		vrLoc = 524;
+	};
+	560EBAC913049C710016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 3213;
+		rType = 0;
+		vrLen = 1451;
+		vrLoc = 525;
+	};
+	560EBACA13049C850016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1450;
+		vrLoc = 525;
+	};
+	560EBACB13049CDE0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SnapReceiptAppDelegate.h */;
+		name = "SnapReceiptAppDelegate.h: 20";
+		rLen = 20;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 1072;
+		vrLoc = 0;
+	};
+	560EBACC13049CDE0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 33";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1451;
+		vrLoc = 525;
+	};
+	560EBACD13049CDE0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 32";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1470;
+		vrLoc = 525;
+	};
+	560EBACE13049D070016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 34";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1527;
+		vrLoc = 525;
+	};
+	560EBACF13049D5A0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1268;
+		vrLoc = 525;
+	};
+	560EBAD013049D7B0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1322;
+		vrLoc = 525;
+	};
+	560EBAD913049DE40016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1690;
+		vrLoc = 525;
+	};
+	560EBAE013049E230016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 3068;
+		rType = 0;
+		vrLen = 1710;
+		vrLoc = 576;
+	};
+	560EBAE513049E8F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SnapReceiptAppDelegate.h */;
+		name = "SnapReceiptAppDelegate.h: 21";
+		rLen = 25;
+		rLoc = 538;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 0;
+	};
+	560EBAE613049E8F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 48";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1601;
+		vrLoc = 576;
+	};
+	560EBAE713049E8F0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1520;
+		vrLoc = 697;
+	};
+	560EBAEC13049EE80016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 52";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1710;
+		vrLoc = 818;
+	};
+	560EBAF313049F610016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SnapReceiptAppDelegate.h */;
+		name = "SnapReceiptAppDelegate.h: 11";
+		rLen = 20;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 0;
+	};
+	560EBAF413049F610016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 40";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1783;
+		vrLoc = 525;
+	};
+	560EBAF513049F610016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 40";
+		rLen = 0;
+		rLoc = 3047;
+		rType = 0;
+		vrLen = 1699;
+		vrLoc = 692;
+	};
+	560EBAFC1304A0360016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 18";
+		rLen = 0;
+		rLoc = 377;
+		rType = 0;
+		vrLen = 1591;
+		vrLoc = 1539;
+	};
+	560EBC031304B27E0016E83D /* baseapi.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1184, 3328}}";
+			sepNavSelRange = "{993, 0}";
+			sepNavVisRange = "{697, 1297}";
+			sepNavWindowFrame = "{{15, 275}, {1314, 778}}";
+		};
+	};
+	560EBCF11304B3310016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 61";
+		rLen = 0;
+		rLoc = 1962;
+		rType = 0;
+		vrLen = 1614;
+		vrLoc = 2138;
+	};
+	560EBCF21304B3310016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBC031304B27E0016E83D /* baseapi.h */;
+		name = "baseapi.h: 69";
+		rLen = 0;
+		rLoc = 3165;
+		rType = 0;
+		vrLen = 1742;
+		vrLoc = 8765;
+	};
+	560EBCF31304B3310016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 13";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 53;
+	};
+	560EBCF41304B3310016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 10";
+		rLen = 0;
+		rLoc = 192;
+		rType = 0;
+		vrLen = 318;
+		vrLoc = 0;
+	};
+	560EBCF51304B3310016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 12";
+		rLen = 0;
+		rLoc = 244;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	560EBCF81304B5AD0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 22";
+		rLen = 0;
+		rLoc = 548;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 0;
+	};
+	560EBCF91304B5AD0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 62";
+		rLen = 0;
+		rLoc = 8298;
+		rType = 0;
+		vrLen = 698;
+		vrLoc = 1144;
+	};
+	560EBCFA1304B5AD0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.m: 81";
+		rLen = 0;
+		rLoc = 2131;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 1808;
+	};
+	560EBCFC1304B6A30016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.m: 86";
+		rLen = 0;
+		rLoc = 3068;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 1294;
+	};
+	560EBCFD1304B6A30016E83D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected '=', ',', ';', 'asm' or '__attribute__' before 'PAGE_RES'";
+		fRef = 560EBC031304B27E0016E83D /* baseapi.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 22;
+		rType = 1;
+	};
+	560EBCFE1304B6A30016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBC031304B27E0016E83D /* baseapi.h */;
+		name = "baseapi.h: 23";
+		rLen = 0;
+		rLoc = 977;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 697;
+	};
+	560EBD061304B7820016E83D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected '=', ',', ';', 'asm' or '__attribute__' before 'PAGE_RES'";
+		fRef = 560EBC031304B27E0016E83D /* baseapi.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 22;
+		rType = 1;
+	};
+	560EBD071304B7820016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBC031304B27E0016E83D /* baseapi.h */;
+		name = "baseapi.h: 23";
+		rLen = 0;
+		rLoc = 977;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 697;
+	};
+	560EBD0C1304B7D80016E83D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected '=', ',', ';', 'asm' or '__attribute__' before 'BLOCK_LIST'";
+		fRef = 560EBC031304B27E0016E83D /* baseapi.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 23;
+		rType = 1;
+	};
+	560EBD0D1304B7D80016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBC031304B27E0016E83D /* baseapi.h */;
+		name = "baseapi.h: 24";
+		rLen = 0;
+		rLoc = 993;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 697;
+	};
+	560EBD141304B8410016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBC031304B27E0016E83D /* baseapi.h */;
+		name = "baseapi.h: 24";
+		rLen = 0;
+		rLoc = 993;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 697;
+	};
+	560EBD291304BF5D0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.mm */;
+		name = "main.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	560EBD2A1304BF5D0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SnapReceipt_Prefix.pch */;
+		name = "SnapReceipt_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	560EBD2B1304BF5D0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBC031304B27E0016E83D /* baseapi.h */;
+		name = "baseapi.h: 23";
+		rLen = 0;
+		rLoc = 977;
+		rType = 0;
+		vrLen = 1479;
+		vrLoc = 324;
+	};
+	560EBD2C1304BF5D0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnapReceiptAppDelegate.mm */;
+		name = "SnapReceiptAppDelegate.mm: 68";
+		rLen = 0;
+		rLoc = 2316;
+		rType = 0;
+		vrLen = 1534;
+		vrLoc = 1702;
+	};
+	560EBD2D1304BF5D0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA19130484FF0016E83D /* CameraViewController.h */;
+		name = "CameraViewController.h: 24";
+		rLen = 0;
+		rLoc = 547;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	560EBD2E1304BF5D0016E83D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incomplete implementation of class 'CameraViewController'";
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 302;
+		rType = 1;
+	};
+	560EBD2F1304BF5D0016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.mm: 303";
+		rLen = 0;
+		rLoc = 8706;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 6229;
+	};
+	560EBD361304BF830016E83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 560EBA1A130484FF0016E83D /* CameraViewController.mm */;
+		name = "CameraViewController.mm: 303";
+		rLen = 0;
+		rLoc = 8706;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 6282;
+	};
+}
